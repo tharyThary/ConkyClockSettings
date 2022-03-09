@@ -5,5 +5,5 @@ How to install? Как установить?
 
 Go to / перейдите в etc/conky
 
-Replace file conky.con replace file with file conky.conf from my GitHub.
+Replace file conky.con replace file with file conky.conf from my GitHub /
 Замениите файл conky.conf на concy.conf файл из моего GitHub`а
